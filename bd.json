@@ -1,11 +1,35 @@
 {
 "users": [
     {
+<<<<<<< HEAD
         "id": 3,
         "name": "Vlada",
         "surname": "Kravchenko",
         "photo_url": "130094_99b90fd8f706c0b55f3282efbde083bb_1200x675.jpg" ,
         "balance": 1500
+=======
+<<<<<<< HEAD
+    "id": 2,
+    "name": "Maria",
+    "surname": "Marchenko",
+    "photo_url": "1662497391_1-kartinkin-net-p-milie-i-smeshnie-kotiki-koti-1.jpg",
+    "balance": 100
+=======
+<<<<<<< HEAD
+        "id": 4,
+        "name": "Vadim",
+        "surname": "Bakun",
+        "photo_url": "jiopr8s0x2.jpg",
+        "balance": 1500
+=======
+        "id": 1,
+        "name": "Vlad",
+        "surname": "Chernushkin",
+        "photo_url": "https://avatars.githubusercontent.com/u/187125357?v=4",
+        "balance": 0
+>>>>>>> 92c904051b9a39faada9b3359dd2590e024039c4
+>>>>>>> cf8ee130cf7cfea615fc6197c19cff2903a97282
+>>>>>>> b151bdf1848776e331efb8dc7331f202a027dd63
     }
 ]
 
