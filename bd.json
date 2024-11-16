@@ -31,6 +31,11 @@
     
 
     "product": [
-        
+    "id":  3 ,
+    "name": "mavpa"  ,
+    "description": "kracivaya padryga negrovckaya",
+    "price": 8045908,
+    "author_id": 5 ,
+    "photo_url": "Novi-prytchi_39.jpg"
     ]
     }
