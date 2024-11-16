@@ -1,6 +1,12 @@
 {
 "users": [
-    
+    {
+        "id": 4,
+        "name": "Vadim",
+        "surname": "Bakun",
+        "photo_url": "jiopr8s0x2.jpg",
+        "balance": 1500
+    }
 ]
 
 }
