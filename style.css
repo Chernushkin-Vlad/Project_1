@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+
+
+main{
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.sticker{
+    width: 300px;
+=======
 *{
     margin: 0;
     padding: 0;
@@ -68,4 +82,5 @@ header h1 {
 
 .footer p {
     margin: 0;
+>>>>>>> cf1fb2059f9114da26d63c20c1db84dd739d443d
 }
