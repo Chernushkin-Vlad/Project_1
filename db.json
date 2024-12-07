@@ -75,7 +75,7 @@
       "name": "Smartphone",
       "description": "A device to keep you connected.",
       "price": 50000,
-      "author_id": 5,
+      "author_id": 2,
       "photo_url": "https://images.pexels.com/photos/3602258/pexels-photo-3602258.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -83,7 +83,7 @@
       "name": "Book",
       "description": "A great source of knowledge.",
       "price": 300,
-      "author_id": 6,
+      "author_id": 3,
       "photo_url": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -91,7 +91,7 @@
       "name": "Chair",
       "description": "Comfortable seating for your home.",
       "price": 1000,
-      "author_id": 7,
+      "author_id": 1,
       "photo_url": "https://images.pexels.com/photos/3373736/pexels-photo-3373736.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -99,7 +99,7 @@
       "name": "Table",
       "description": "A sturdy table for your workspace.",
       "price": 3000,
-      "author_id": 8,
+      "author_id": 4,
       "photo_url": "https://images.pexels.com/photos/3707744/pexels-photo-3707744.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -107,7 +107,7 @@
       "name": "Bike",
       "description": "Eco-friendly transportation.",
       "price": 8000,
-      "author_id": 9,
+      "author_id": 2,
       "photo_url": "https://images.pexels.com/photos/4465828/pexels-photo-4465828.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
   ]
